@@ -1,4 +1,4 @@
--- Tutorial 0: SELECT name
+-- Tutorial 1: SELECT name
 -- 1. Find the country that start with Y
 SELECT
     name
